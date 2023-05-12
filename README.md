@@ -19,7 +19,6 @@
       Planned using  scrum as a framework.
       The app will have a huge impact on the way students learn and teachers streamline the way they assess.
       The app is being developed by a group of five students from the sixth grade of Bachelor of Science in Computer Science and Technology.
-- https://miscompetenciastec21.tec.mx/elumen/portfolio/WYBXjKBfJb1fejaOm
 - [BORBOLETA APP](https://github.com/RobinSpoiler/AppBorboleta)
 - [URBAN MOBILITY](https://Santi001@bitbucket.org/santi001/proyectointegrador)
 - [SYNTAX HIGHLIGHTER](https://Santi001@bitbucket.org/santi001/actividad-integradora-3.4-resaltador-de-sintaxis-evidencia-de)
