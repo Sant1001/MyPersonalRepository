@@ -13,13 +13,13 @@
 <p align="left"></p>
 
 - 🔭 [EzCODE](https://github.com/Juanllanos19/Ezcode)
-  - Web app that allows young engineering students to deepen their programming skills.
+  - *Web app that allows young engineering students to deepen their programming skills.
     - Developing using HTML, CSS, Javascript, Vue.js and Django.
     - Planned using  scrum as a framework.
     - The app will have a huge impact on the way students learn and teachers streamline the way they assess.
     - The app is being developed by a group of five students from the sixth grade of Bachelor of Science in Computer Science and Technology.
 - [BORBOLETA APP](https://github.com/RobinSpoiler/AppBorboleta)
-  - App that shows general information of psychologists and the user can choose the most suitable profile for their needs. 
+  - *App that shows general information of psychologists and the user can choose the most suitable profile for their needs. 
     - Implemented using Kotlin language for Android version and Swift for IOS. 
     - Using firebase for managing databases and taking care of privacy by encrypting their password with this platform. 
     - This project has an important impact on  the way that people get connected with psychologists, because now they can find someone that can really understand their feelings and beliefs.
