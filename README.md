@@ -13,7 +13,7 @@
 <p align="left"></p>
 
 - 🔭 [EzCODE](https://github.com/Juanllanos19/Ezcode)
-  - *Web app that allows young engineering students to deepen their programming skills.
+  - **Web app that allows young engineering students to deepen their programming skills.**
     - Developing using HTML, CSS, Javascript, Vue.js and Django.
     - Planned using  scrum as a framework.
     - The app will have a huge impact on the way students learn and teachers streamline the way they assess.
