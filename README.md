@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago León</h1>
-<h3 align="center">I am currently studying 6th semester of Engineering in Computer Science and Technology at ITESM 👨‍🎓🐏</h3>
+<h3 align="center">I am currently studying 7th semester of Engineering in Computer Science and Technology at ITESM 👨‍🎓🐏</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sant1001&label=Profile%20views&color=0e75b6&style=flat" alt="sant1001" /> </p>
 
-- 🔭 I’m currently working on [EzCODE](https://github.com/Juanllanos19/Ezcode)
+- 🔭 I’m currently working on Ecommerce Project
 
-- 🌱 I’m currently learning **Vue.js, Django, Boostrap.**
+- 🌱 I’m currently learning **Backend with c#, .NET7**
 
 - 📫 How to reach me **a01734958@tec.mx**
 
